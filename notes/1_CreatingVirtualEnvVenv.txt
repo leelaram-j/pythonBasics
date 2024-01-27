@@ -1,0 +1,18 @@
+Upgrade PIP:
+
+ pip install --upgrade pip
+
+1) Create new env using venv
+
+python3 -m venv my_env
+
+2) Switch to created env
+
+source my_env/bin/activate
+
+3) Deactivate the env
+
+deactivate
+
+
+pip install requests
